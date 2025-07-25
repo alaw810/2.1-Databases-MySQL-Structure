@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# MySQL Workbench
+*.mwb
+*.bak
+*.log
+
+# SQL dump temp files
+*.sql~*
+
+# VS Code
+.vscode/
+
+# Docker
+.env
+docker-compose.override.yml
+*.pid
+*.log
+
+# General backup/temp files
+*.tmp
+*.swp
+

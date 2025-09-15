@@ -58,7 +58,7 @@ Create a simplified YouTube schema with users, channels, videos, tags, subscript
    ```
 2. Open the project folder.
 
-3. Open the **.sql** files using your SQL client.
+3. Open the `.sql` files using your SQL client.
 
 4. Run the creation and insertion scripts in the correct order.
 
@@ -69,7 +69,7 @@ Create a simplified YouTube schema with users, channels, videos, tags, subscript
 
 - Execute MySQL Workbench or your preferred MySQL client.
 
-- After the installation you only need to run the **.sql** files with the example queries to verify the database was correctly populated and relational constraints work.
+- After the installation you only need to run the `.sql` files with the example queries to verify the database was correctly populated and relational constraints work.
 
 ---
 
